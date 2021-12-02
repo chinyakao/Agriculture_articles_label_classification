@@ -5,6 +5,7 @@
 In this competition you will be provided agriculture related documents and you are asked to develop a model to label text segments relevant to "plant epidemic".
 
 *This is a competition hosted in Taiwan and the corresponding data and other information will be in mandarin. The details on the site do translate well in chrome if you are interested on reading what the competition is about.
+## Data
 
 ## Data preprocessing
 
